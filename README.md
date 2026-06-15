@@ -35,6 +35,8 @@ Junior DevOps Engineer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dracoextendo&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dracoextendo&layout=compact)
+
 ## Current Goals
 
 - Build production-like CI/CD pipelines
