@@ -22,6 +22,17 @@ Junior DevOps Engineer
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
 
+## Currently Learning
+
+- [x] Linux Fundamentals
+- [x] TCP/IP,UDP
+- [x] Git & GitHub
+- [ ] Docker Basics
+- [ ] Docker Compose
+- [ ] Terraform
+- [ ] Kubernetes
+- [ ] AWS
+
 ## Current Goals
 
 - Build production-like CI/CD pipelines
