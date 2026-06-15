@@ -37,12 +37,13 @@ Junior DevOps Engineer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dracoextendo&layout=compact)
 
-## Current Goals
+## Goals for 2026
 
-- Build production-like CI/CD pipelines
-- Learn Infrastructure as Code
-- Deploy applications in cloud environments
-- Improve Linux administration skills
+- Build CI/CD pipelines
+- Learn Terraform
+- Learn Kubernetes
+- Deploy projects in cloud environments
+- Create a strong DevOps portfolio
 
 ## Featured Projects
 
