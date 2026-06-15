@@ -33,6 +33,8 @@ Junior DevOps Engineer
 - [ ] Kubernetes
 - [ ] AWS
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dracoextendo&show_icons=true)
+
 ## Current Goals
 
 - Build production-like CI/CD pipelines
