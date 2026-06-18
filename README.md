@@ -27,7 +27,7 @@ Junior DevOps Engineer
 - [x] Linux Fundamentals
 - [x] TCP/IP,UDP
 - [x] Git & GitHub
-- [ ] Docker Basics
+- [x] Docker Basics
 - [ ] Docker Compose
 - [ ] Terraform
 - [ ] Kubernetes
