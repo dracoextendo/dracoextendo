@@ -28,7 +28,8 @@ Junior DevOps Engineer
 - [x] TCP/IP,UDP
 - [x] Git & GitHub
 - [x] Docker Basics
-- [ ] Docker Compose
+- [x] Docker Compose
+- [x] GitActions
 - [ ] Terraform
 - [ ] Kubernetes
 - [ ] AWS
