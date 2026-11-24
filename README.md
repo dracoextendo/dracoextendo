@@ -30,9 +30,9 @@ Junior DevOps Engineer
 - [x] Docker Basics
 - [x] Docker Compose
 - [x] GitActions
-- [ ] Terraform
-- [ ] Kubernetes
-- [ ] AWS
+- [x] Terraform
+- [x] Kubernetes
+- [x] AWS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dracoextendo&show_icons=true)
 
